@@ -72,3 +72,35 @@ ERICHOTINGER
 ```
 VKNIRGZWETLR
 ```
+
+###Sample Input:###
+
+```
+ORIOLES
+```
+
+###Sample Output:###
+
+```
+FRSIOIV
+```
+
+###Explanation:###
+After the square encoding, we see that `ORIOLES` is transformed into
+
+```
+ORI
+OLE
+S
+```
+
+From the block we get a new string: `OOSRLIE`
+
+We take the new string and encrypt it with the key `RDA`:
+
+```
+OOSRLIE
+RDARDAR
+-------
+FRSIOIV
+```
