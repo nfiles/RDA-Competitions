@@ -59,13 +59,13 @@ The maximum plain-text length is 80 characters long.
 
 Print the encoded message after applying a Vigenère cipher to a square code based on the original input.
 
-###SAMPLE INPUT:###
+###Sample Input:###
 
 ```
 ERICHOTINGER
 ```
 
-###SAMPLE OUTPUT:###
+###Sample Output:###
 
 ```
 VKNIRGZWETLR
