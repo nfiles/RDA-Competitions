@@ -8,8 +8,7 @@ are written into a square or rectangle.
 The width and height of the rectangle have the constraint:
 
 ```
-height <= ceil(sqrt(word.Length))
-floor(sqrt(word.Length)) <= width
+height <= ceil(sqrt(word.Length)), floor(sqrt(word.Length)) <= width
 ```
 
 Among the possible squares or rectangles, choose the one with the **minimum area**.
