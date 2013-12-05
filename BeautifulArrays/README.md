@@ -45,7 +45,7 @@ The array [1, 2, 3] is a Beautiful Array since it contains 3 elements.  It also 
 ###Sample Input 2:###
 
 ```
-7
+8
 100
 100
 -40000
