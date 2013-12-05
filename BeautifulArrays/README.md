@@ -12,7 +12,7 @@ You will be given an integer N, followed by N integers, one on each line.  At le
 ###Constraints:###
 `3 <= N <= 150000`
 
-You should output the largest sum followed by a count of the total number of Beautiful Arrays which contain the largest possible sum.
+You should output the largest sum followed by a count of the total number of distinct Beautiful Arrays which contain the largest possible sum.
 
 Use `STDIN` for all input and `STDOUT` for all output.
 
