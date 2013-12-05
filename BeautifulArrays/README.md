@@ -32,7 +32,7 @@ Use `STDIN` for all input and `STDOUT` for all output.
 1
 ```
 
-###Explanation 1:###
+###Explanation:###
 
 ```
 The array [1, 2, 3] is a Beautiful Array since it contains 3 elements.  It also contains the largest sum, which is 6.
