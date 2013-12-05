@@ -16,7 +16,7 @@ You should output the largest sum followed by a count of the total number of dis
 
 Use `STDIN` for all input and `STDOUT` for all output.
 
-
+================================
 
 ###Sample Input 1:###
 
@@ -41,6 +41,8 @@ Use `STDIN` for all input and `STDOUT` for all output.
 The array [1, 2, 3] is a Beautiful Array since it contains 3 elements.  It also contains the largest sum, which is 6.
 ```
 
+
+============================
 
 ###Sample Input 2:###
 
@@ -71,6 +73,8 @@ There are three Beautiful Arrays which contain the largest contiguous sum, which
 
 However, since one of these arrays is duplicated, we remove the duplicate and end up with 2: [100, 100] and [50, 150].
 ```
+
+======================
 
 
 ###Due Date:###
