@@ -7,9 +7,12 @@ A smaller Beautiful Array can be extracted from a larger Beautiful Array, but al
 
 Given a Beautiful Array of integers as input, your task is to find the largest sum formed from a Beautiful Array and a count of all the distinct Beautiful Arrays containing the largest possible sum.
 
-You will be given an integer N, followed by N integers, one on each line.  At least one of the numbers will be positive.
+You will be given an integer N, followed by N integers, one on each line.  At least one of the following N integers will be positive.
 
-You should output the largest sum followed by a count of the total number of sets which contain the largest possible sum.
+###Constraints:###
+`3 <= N <= 150000`
+
+You should output the largest sum followed by a count of the total number of Beautiful Arrays which contain the largest possible sum.
 
 Use `STDIN` for all input and `STDOUT` for all output.
 
