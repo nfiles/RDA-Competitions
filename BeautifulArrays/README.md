@@ -1,7 +1,7 @@
 Beautiful Arrays
 ================
 
-A Beautiful Array is an array containing at least two integers.
+A Beautiful Array is an array containing at least one integer.
 
 A smaller Beautiful Array can be extracted from a larger Beautiful Array, but all of the elements extracted must be contiguous within the larger Beautiful array.
 
