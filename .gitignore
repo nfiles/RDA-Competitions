@@ -1,4 +1,5 @@
 *.exe
 *.suo
 *.cache
+*.pdb
 */obj/*
